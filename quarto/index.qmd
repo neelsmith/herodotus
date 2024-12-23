@@ -1,0 +1,15 @@
+---
+engine: julia
+---
+
+# Reading Herodotus with assistance from AI
+
+Basic prerequisite resources:
+
+- a canonically citable text
+- Herodotean morphological parser, including parsing of named entities
+- uniquely identified named entities
+
+Projects to work on:
+
+- lexical and syntactic patterns significant for the research theme

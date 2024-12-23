@@ -1,0 +1,28 @@
+project:
+  type: website
+theme: simplex
+execute:
+  freeze: auto
+date: last-modified  
+format:
+  html: 
+    toc: true
+
+
+website:
+  title: "Reading Herodotus"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Resources"
+        file: resources/index.qmd
+
+    right:
+      - icon: person-circle
+        menu:
+          - text: "Neel Smith: home page"
+            href: https://neelsmith.quarto.pub
+        aria-label: Home  
