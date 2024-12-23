@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 00be9762-5279-4946-a3a1-3d938e4c127e
+      url: https://neelsmith.quarto.pub/herodotus
